@@ -52,4 +52,4 @@ The project provides valuable insights into the factors affecting taxi fares and
 This README provides a comprehensive guide to understanding and navigating your analysis project. Feel free to modify and expand upon this template to better suit the specifics of your work and to provide additional context or instructions as needed.
 
 Contributor Wisnu Kristianto 
-https://public.tableau.com/views/capsjcdsmodul2/Story5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/83FR5JN59?:display_count=n&:origin=viz_share_link
